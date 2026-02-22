@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#f8faf9"/>
+  <text x="40" y="40" font-family="Arial, sans-serif" font-size="24" fill="#203034">System Architecture</text>
+
+  <rect x="60" y="90" width="260" height="90" rx="12" fill="#ffffff" stroke="#cfe2dc"/>
+  <text x="90" y="145" font-family="Arial, sans-serif" font-size="16" fill="#1a2b2e">User Interface</text>
+  <text x="90" y="165" font-family="Arial, sans-serif" font-size="13" fill="#5b6a6e">Mobile App</text>
+
+  <rect x="370" y="90" width="260" height="90" rx="12" fill="#ffffff" stroke="#cfe2dc"/>
+  <text x="400" y="145" font-family="Arial, sans-serif" font-size="16" fill="#1a2b2e">Health Data Input</text>
+
+  <rect x="680" y="90" width="260" height="90" rx="12" fill="#ffffff" stroke="#cfe2dc"/>
+  <text x="710" y="135" font-family="Arial, sans-serif" font-size="16" fill="#1a2b2e">Rule-Based</text>
+  <text x="710" y="155" font-family="Arial, sans-serif" font-size="16" fill="#1a2b2e">Logic Engine</text>
+
+  <rect x="370" y="230" width="260" height="90" rx="12" fill="#ffffff" stroke="#cfe2dc"/>
+  <text x="400" y="285" font-family="Arial, sans-serif" font-size="16" fill="#1a2b2e">Recommendations</text>
+
+  <rect x="680" y="230" width="260" height="90" rx="12" fill="#ffffff" stroke="#cfe2dc"/>
+  <text x="710" y="285" font-family="Arial, sans-serif" font-size="16" fill="#1a2b2e">Health Records DB</text>
+
+  <line x1="320" y1="135" x2="370" y2="135" stroke="#9fc2b7" stroke-width="3"/>
+  <line x1="630" y1="135" x2="680" y2="135" stroke="#9fc2b7" stroke-width="3"/>
+  <line x1="810" y1="180" x2="500" y2="230" stroke="#9fc2b7" stroke-width="3"/>
+  <line x1="500" y1="320" x2="810" y2="230" stroke="#9fc2b7" stroke-width="3"/>
+
+  <rect x="60" y="360" width="880" height="110" rx="12" fill="#ffffff" stroke="#cfe2dc"/>
+  <text x="90" y="405" font-family="Arial, sans-serif" font-size="15" fill="#1a2b2e">Technologies</text>
+  <text x="90" y="430" font-family="Arial, sans-serif" font-size="13" fill="#5b6a6e">Frontend: Android (Java/Kotlin/XML) · Backend: Firebase/SQLite · Tools: Android Studio · OS: Android</text>
+</svg>
